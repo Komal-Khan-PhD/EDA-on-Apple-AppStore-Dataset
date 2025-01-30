@@ -43,8 +43,8 @@ Feast your eyes on:
 Ready to explore? Clone this repo and launch the Jupyter notebook to begin your journey through the Apple App Store data landscape!
 
 ```bash
-git clone https://github.com/yourusername/apple-appstore-analysis.git
-cd apple-appstore-analysis
+git clone https://github.com/Komal-Khan-PhD/EDA-on-Apple-AppStore-Dataset.git
+cd EDA-on-Apple-AppStore-Dataset
 jupyter notebook
 ```
 
