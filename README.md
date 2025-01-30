@@ -1,7 +1,9 @@
 # 🍎 Unveiling the Apple App Store: A Data-Driven Exploration
 
 Welcome to the Apple App Store Exploratory Data Analysis (EDA) project! Dive into the world of iOS apps and discover what makes them tick.
+
 **Link to Kaggle Notebook**
+
 For a detailed walkthrough of the analysis, please check out my Kaggle notebook [here](https://www.kaggle.com/code/drkomalkhan/eda-apple-appstore-dataset).
 
 ## 🚀 Project Highlights
